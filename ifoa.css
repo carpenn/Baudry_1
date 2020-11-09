@@ -1,0 +1,107 @@
+/*https://www.actuaires.org/CTTEES_COMMUNICATIONS/Documents/IFOA%20Guidelines%20final.pdf 
+
+https://www.color-hex.com/color/113458
+http://www.brandwares.com/RGBTintCalculator.php
+
+
+DARK BLUE:		 #113458
+	TINT 75%	 #4D6782
+	TINT 50%	 #889AAC
+	TINT 25%	 #C4CCD5
+
+GOLD:			 #D9AB16
+	TINT 75%	 #E3C050
+	TINT 50%	 #ECD58B
+	TINT 25%	 #F6EAC5
+
+MID BLUE:		 #4096B8
+	TINT 75%	 #70B0CA
+	TINT 50%	 #A0CBDC
+	TINT 25%	 #CFE5ED
+
+LIGHT GREY:		 #DCDDD9
+	TINT 75%	 #E5E6E3
+	TINT 50%	 #EEEEEC
+	TINT 25%	 #F6F7F6
+
+DARK GREY: 		 #3F4548
+
+FUSCIA:			 #E9458C	
+*/
+
+#main .nav-pills > li.active > a,
+#main .nav-pills > li.active > a:focus {
+    background-color: #22983B;
+	color: #D9AB16;
+}
+
+#main .nav-pills > li > a:hover {
+    background-color: #22983B;
+	color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6, legend {
+    color: #D9AB16;
+}
+
+#nav-top span.glyphicon {
+    color: #D9AB16;
+}
+
+#table-of-contents header {
+    color: #F6F7F6;
+}
+
+#table-of-contents {
+	color: #4096B8;
+    background-color: #DCDDD9;
+}
+
+#table-of-contents ul.nav  li.active a {
+    color: #D9AB16 !important;
+}
+
+#sidebar {
+	color: #D9AB16;
+	background: #113458;
+}
+
+#sidebar h2 {
+	color: #FFFFFF;
+	background-color: #4096B8;
+}
+
+#sidebar a {
+	color: #3F4548;
+}
+
+#sidebar a:hover {
+    background-color: #3F4548;
+	color: #FFFFFF;
+}
+
+#sidebar h2 a {
+	color: #fcfcfc;
+}
+
+#postamble {
+	color: #fcfcfc;
+	background: #4096B8;
+    border-top: solid 10px #113458;
+}
+
+
+
+
+#main a {
+    background-image: linear-gradient(180deg,#d64a70,#d64a70);
+    color: #c7254e;
+}
+
+a:hover {
+    color: #3d1308;
+}
+
+a:visited {
+    color: #3d1308;
+}
